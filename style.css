@@ -1,0 +1,50 @@
+body  {
+	background-image: url("gg.png");
+}
+h1 {
+	color:#7c75e0;
+	text-align: center;
+}
+ul {
+	background: #00c3ff;
+    width: 500px;
+    margin: auto;
+    border-radius:10px;
+    box-shadow: 10px 10px 10px gold;
+}
+ul li{
+	line-height: 40px;
+	color: white;
+}
+ol {
+	background: #9ff5d1;
+	width: 500px;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px gold;
+}
+ol li {
+	line-height: 40px;
+	color:white;
+}
+h3 {
+	color:#7c75e0;
+	text-align:center;
+	margin-top:50px;
+	font-size: 30px;
+}
+h1,h3,ul,ol {
+	font-family: 'Caveat', cursive;
+}
+li {
+	font-size: 26px;
+	text-shadow: 0px 0px 5px grey;
+}
+#pushkin {
+	font-size:30px;
+	text-align: center;
+}
+.ourCars {
+font-size: 30px;
+text-align: center;
+}
